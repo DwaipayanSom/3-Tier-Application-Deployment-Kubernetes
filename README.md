@@ -1,9 +1,3 @@
-Certainly! Here's a summary of your 8th project, "Three-Tier Application Deployment with AWS and Kubernetes," for your resume:
-
----
-
-Project Title: Three-Tier Application Deployment with AWS and Kubernetes
-
 Description: Implemented a three-tier architecture for deploying a web application using AWS and Kubernetes. The project involved setting up the Presentation, Logical, and Data Layers, and automating the deployment process using Kubernetes and various AWS services.
 
 Key Contributions:
