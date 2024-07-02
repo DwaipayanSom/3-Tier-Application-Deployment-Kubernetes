@@ -36,6 +36,6 @@ Deployment Steps:
    - Used Helm for managing Kubernetes packages and deploying the load balancer controller.
    - Automated the creation and destruction of the infrastructure using AWS CloudFormation.
 
-Technologies Used: AWS (EC2, ECR, EKS, IAM, CloudFormation), Kubernetes, Docker, Helm, MongoDB
+Technologies Used: AWS (EC2, ECR, EKS, IAM, CloudFormation, CodePipeline, CodeBUild), Kubernetes, Docker, Helm, MongoDB
 
 Outcome: Successfully deployed a scalable and resilient three-tier web application architecture, ensuring efficient interaction between user interface, business logic, and data storage layers.
